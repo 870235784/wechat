@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+wechat:
+  #appId: wx11e9c92303efd224 
+  appId: wx8e2c460a93b52246 #测试
+  token: edf4860a022a480f8628ba398a882242
+  #secret: 516a5b56b768c64aa870dcf9dfa629a9
+  secret: 0e0f0b247844be2d2ff73824df0df796  #测试
+  encodingAesKey: oY8DPtaON3wyM9MMt5FkhVUZgj7Z0TMhTWarhHlczeS
+  
+checkOn:
+   url: https://www.baidu.com/
+   
+template:
+   attendence: j5EtPRYXf-EmUTKoCjmbG6OIcTl7xWS4NqfT-kiiudE
